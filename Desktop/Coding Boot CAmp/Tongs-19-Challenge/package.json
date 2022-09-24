@@ -1,0 +1,19 @@
+{
+  "name": "tongs-19-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "tlor0026"
+  },
+  "author": "Tong Lor",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^7.4.0",
+    "nodemon": "^2.0.20"
+  }
+}
